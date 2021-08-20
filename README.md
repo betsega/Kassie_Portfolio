@@ -1,6 +1,6 @@
 # Kassie_Portfolio
 Welcome to Kassie's Portfolio
-# [Project 1: Exploratory Data Analysis] https://github.com/betsega/Data_Science_with_Python_Projects/6e99982bf3f9bea44b5d8b1e76bba85b8fffc2a4
+# [Project 1: Exploratory Data Analysis] (https://github.com/betsega/Data_Science_with_Python_Projects)
 
 This project is on data analysis with python. The project used used SAT and ACT dataset to examine the participation rate of the states in the year 2017.
 The data cleaning methods were applied to prepare the data for further analysis investigate. 
